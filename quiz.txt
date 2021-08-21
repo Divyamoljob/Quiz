@@ -1,0 +1,5 @@
+What is the maximum possible length of an identifier?,16,32,64,None of these above
+Who developed the Python language?,Zim Den,Guido van Rossum,Niene Stom,Wick van Rossum
+In which year was the Python language developed?,1995,1972,1981,1989
+In which language is Python written?,English,PHP,C,All of the above
+Which one of the following is the correct extension of the Python file?,.py,.python,.p,None of these

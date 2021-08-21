@@ -1,0 +1,20 @@
+1,What is the maximum possible length of an identifier?,16,32,64,None of these above
+2,Who developed the Python language?,Zim Den,Guido van Rossum,Niene Stom,Wick van Rossum
+3,In which year was the Python language developed?,1995,1972,1981,1989
+4,In which language is Python written?,English,PHP,C,All of the above
+5,Which one of the following is the correct extension of the Python file?,.py,.python,.p,None of these
+6,In which year was the Python 3.0 version developed?,2008,2000,2010,2005
+7,What do we use to define a block of code in Python language?,Key,Brackets,Indentation,None of these
+8,Which character is used in Python to make a single line comment?,/,//,#,!
+9,Which of the following statements is correct regarding the object-oriented programming concept in Python?,Classes are real-world entities while objects are not real,Objects are real-world entities while classes are not real,Both objects and classes are real-world entities,All of the above
+10,What is the method inside the class in python language?,Object,Function,Attribute,Argument
+11,Which of the following declarations is incorrect?,_x = 2,__x = 3,__xyz__ = 5,None of these
+12,Why does the name of local variables start with an underscore discouraged?,To identify the variable,It confuses the interpreter,It indicates a private variable of a class,None of these
+13,Which of the following is not a keyword in Python language?,val,raise,try,with
+14,Which of the following statements is correct for variable names in Python language?,All variable names must begin with an underscore.,Unlimited length,The variable name length is a maximum of 2.,All of the above
+15,Which of the following declarations is incorrect in python language?,xyzp = 5,000,000,x y z p = 5000 6000 7000 8000,x,y,z,p = 5000,6000,7000, 8000,x_y_z_p = 5,000,000
+16,Which of the following words cannot be a variable in python language?,_val,val,try,_try_
+17,Which of the following operators is the correct option for power(ab)?,a ^ b,a**b,a ^ ^ b,a ^ * b
+18,Which one of the following has the highest precedence in the expression?,Division,Subtraction,Power,Parentheses
+19,Which of the following functions is a built-in function in python language?,val(),prints(),print(),None of these
+20,Which one of the following syntaxes is the correct syntax to read from a simple text file stored in ''d:\java.txt''?,Infile = open(''d:\\java.txt'', ''r''),Infile = open(file=''d:\\\java.txt'', ''r''),Infile = open(''d:\java.txt'',''r''),Infile = open.file(''d:\\java.txt'',''r'')
